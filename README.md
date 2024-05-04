@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/jnthnn/jnthnn/master/JNTHNN.svg" alt="JNTHNN" />
+    <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/bc9802ccfd9b1c261bafce58d49ffcdc866876b7/JNTHNN.svg?token=A23ZP2JULH46UZYZFWTUG7DGGZTEO" alt="JNTHNN" />
 </h1>
 
 ### Hi there 👋
