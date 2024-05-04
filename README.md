@@ -1,16 +1,17 @@
 <h1 align="center">
-    <div>
-        <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam.gif" alt="catjam">
-    </div>
-    <div>
-        <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/JNTHNN.svg" alt="JNTHNN" style="width:100%;height:auto;object-fit:cover;">
-    </div>
-    <div>
-      <a href="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam.gif">
-        <img src="https://example.com/your-image-url" alt="catjam">
-      </a>
-    </div>
-  </div>
+        <div style="display: flex; justify-content: space-between;">
+                <div>
+                        <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam.gif" alt="catjam">
+                </div>
+                <div>
+                        <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/JNTHNN.svg" alt="JNTHNN" style="width:100%;height:auto;object-fit:cover;">
+                </div>
+                <div>
+                    <a href="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam.gif">
+                        <img src="https://example.com/your-image-url" alt="catjam">
+                    </a>
+                </div>
+        </div>
 </h1>
 
 ### Hi there 👋
