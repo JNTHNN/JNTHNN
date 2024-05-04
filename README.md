@@ -1,4 +1,6 @@
+<h1 align="center">
 ![JNTHNN](JNTHNN.svg)
+</h1>
 
 ### Hi there 👋
 
