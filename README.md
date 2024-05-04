@@ -1,17 +1,17 @@
 <h1 align="center">
   <div style="display:flex;justify-content:space-between;align-items:center;width:100%;">
     <div style="flex:1;">
-      <a href="https://giphy.com/stickers/cat-vibing-BXjqytvu9bKzCUHdzz">
+      <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZxNWkzcTVneHg5Znl6dmNzNHY5dHV4a3E4cDhzeGVoazB0eTB4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif">
         <img src="https://giphy.com/embed/BXjqytvu9bKzCUHdzz" alt="GIF1" style="width:100%;height:auto;object-fit:cover;">
       </a>
     </div>
     <div style="flex:1;">
       <a href="https://github.com/JNTHNN/JNTHNN">
-        <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/bc9802ccfd9b1c261bafce58d49ffcdc866876b7/JNTHNN.svg?token=A23ZP2JULH46UZYZFWTUG7DGGZTEO" alt="Image1" style="width:100%;height:auto;object-fit:cover;">
+        <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/bc9802ccfd9b1c261bafce58d49ffcdc866876b7/JNTHNN.svg?token=A23ZP2JULH46UZYZFWTUG7DGGZTEO" alt="JNTHNN" style="width:100%;height:auto;object-fit:cover;">
       </a>
     </div>
     <div style="flex:1;text-align:center;">
-      <a href="https://example.com">
+      <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZxNWkzcTVneHg5Znl6dmNzNHY5dHV4a3E4cDhzeGVoazB0eTB4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif">
         <img src="https://example.com/your-image-url" alt="Image2" style="width:100%;height:auto;object-fit:cover;">
       </a>
     </div>
