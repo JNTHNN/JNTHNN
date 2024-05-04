@@ -1,5 +1,5 @@
 <h1 align="center">
-![JNTHNN](JNTHNN.svg)
+    <img src="https://raw.githubusercontent.com/jnthnn/jnthnn/master/JNTHNN.svg" alt="JNTHNN" />
 </h1>
 
 ### Hi there 👋
