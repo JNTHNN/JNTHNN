@@ -7,7 +7,7 @@
                         <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/JNTHNN.svg" alt="JNTHNN" style="width:30%;height:auto;object-fit:cover;">
                 </div>
                 <div>
-                        <img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam.gif" alt="catjam">
+                        <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam.gif" alt="catjam">
                 </div>
         </div>
 </h1>
