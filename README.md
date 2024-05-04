@@ -4,7 +4,7 @@
                         <img align="left" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam.gif" alt="catjam">
                 </div>
                 <div>
-                        <img align="center" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/JNTHNN.svg" alt="JNTHNN" style="width:50%;height:auto;object-fit:cover;">
+                        <img align="center" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/JNTHNN.svg" alt="JNTHNN" style="width:50%;">
                 </div>
                 <div>
                         <img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam.gif" alt="catjam">
