@@ -1,15 +1,13 @@
 <h1 align="center">
         <div style="display: flex; justify-content: space-between;">
                 <div>
-                        <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam.gif" alt="catjam">
+                        <img align="left" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam.gif" alt="catjam">
                 </div>
                 <div>
-                        <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/JNTHNN.svg" alt="JNTHNN" style="width:50%;height:auto;object-fit:cover;">
+                        <img align="center" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/JNTHNN.svg" alt="JNTHNN" style="width:50%;height:auto;object-fit:cover;">
                 </div>
                 <div>
-                    <a href="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam.gif">
-                        <img src="https://example.com/your-image-url" alt="catjam">
-                    </a>
+                        <img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam.gif" alt="catjam">
                 </div>
         </div>
 </h1>
