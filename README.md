@@ -7,7 +7,7 @@
     </div>
     <div style="flex:1;">
       <a href="https://github.com/JNTHNN/JNTHNN">
-        <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/bc9802ccfd9b1c261bafce58d49ffcdc866876b7/JNTHNN.svg?token=A23ZP2JULH46UZYZFWTUG7DGGZTEO" alt="JNTHNN" style="width:100%;height:auto;object-fit:cover;">
+        <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/75ece3c202184aaedc5c9ae9671e763dd8647186/JNTHNN.svg?token=A23ZP2IELUF2WKLFU7VVOY3GGZU3Q" alt="JNTHNN" style="width:100%;height:auto;object-fit:cover;">
       </a>
     </div>
     <div style="flex:1;text-align:center;">
