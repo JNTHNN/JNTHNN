@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/19.png" alt="catjam" style="width:30%">
+<img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/19.png" alt="catjam" style="width:30%;float: inline-end;">
 
 - 👨🏼‍🎓 I'm currently student at 19 Brussels
 - 🔭 I’m currently working on minishell with [@GDelvign](https://github.com/Gillian-Delvigne)
