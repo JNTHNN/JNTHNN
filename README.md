@@ -9,8 +9,8 @@
 <img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/19.png" alt="catjam" style="width:30%;float: inline-end;">
 
 - 👨🏼‍🎓 I'm currently student at 19 Brussels
-- 🔭 I’m currently working on NetPractice
-- 🌱 I’m currently learning C
+- 🔭 I’m currently working on CPP Modules (CPP_00)
+- 🌱 I’m currently learning C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnthnn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
