@@ -4,7 +4,7 @@
 <img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam-reverse.gif" alt="catjam">
 </h1>
 
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Hello+-+Salut+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/19.png" alt="catjam" style="width:30%;float: inline-end;">
 
