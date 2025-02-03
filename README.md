@@ -17,7 +17,10 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,apple,git,bash,vim,vscode" />
 </p>
 
-<img align="center" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/aws-certified-cloud-practitioner.png">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/aws-certified-cloud-practitioner.png">
+</p>
+
 <!--
 **JNTHNN/JNTHNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
