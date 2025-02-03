@@ -14,6 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnthnn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2></h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,apple,git,bash,vim,vscode" />
 </p>
