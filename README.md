@@ -4,8 +4,6 @@
 <img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam-reverse.gif" alt="catjam">
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=BlinkMacSystemFont&size=44&letterSpacing=3px&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Hello+-+Salut+%F0%9F%91%8B)](https://git.io/typing-svg)
-
 <img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/19.png" alt="catjam" style="width:30%;float: inline-end;">
 
 - 👨🏼‍🎓 I'm currently student at 19 Brussels
@@ -19,6 +17,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,apple,git,bash,vim,vscode" />
 </p>
 
+<img align="center" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/aws-certified-cloud-practitioner.png">
 <!--
 **JNTHNN/JNTHNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
