@@ -21,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/aws-certified-cloud-practitioner.png" />
 </p>
 
+<!--
 <h2> Projets 19 / 42 </h2>
 
 <p align="center">
