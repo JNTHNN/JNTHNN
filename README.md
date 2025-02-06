@@ -18,7 +18,23 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/aws-certified-cloud-practitioner.png">
+  <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/aws-certified-cloud-practitioner.png" />
+</p>
+
+<h2> Projets 19 / 42 </h2>
+
+<p align="center">
+  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/1-removebg-preview.png" />
+  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/2-removebg-preview.png" />
+  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/3-removebg-preview.png" />
+  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/4-removebg-preview.png" />
+  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/5-removebg-preview.png" />
+</p>
+<p align="center">
+  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/8-removebg-preview.png" />
+  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/7-removebg-preview.png" />
+  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/6-removebg-preview.png" />
+
 </p>
 
 <!--
