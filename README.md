@@ -19,24 +19,35 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/aws-certified-cloud-practitioner.png" />
+  <a>
+    <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/aws-certified-cloud-practitioner.png" />
+  </a>
 </p>
 
-<!--
 <h2> Projets 19 / 42 </h2>
 
 <p align="center">
-  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/1-removebg-preview.png" />
-  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/2-removebg-preview.png" />
-  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/3-removebg-preview.png" />
-  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/4-removebg-preview.png" />
-  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/5-removebg-preview.png" />
+  <a href="https://github.com/JNTHNN/Libft">
+    <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/project_libft.png" />
+  </a>
+  <a href="https://github.com/JNTHNN/Ft_printf">
+    <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/project_ft_printf.png" />
+  </a>
+  <a href="https://github.com/JNTHNN/Get_Next_Line">
+    <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/project_gnl.png" />
+  </a>
+  <a href="https://github.com/JNTHNN/Push_swap">
+    <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/project_push_swap.png" />
+  </a>
+  <a href="https://github.com/JNTHNN/Fdf">
+    <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/project_fdf.png" />
+  </a>
 </p>
+<!--
 <p align="center">
   <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/8-removebg-preview.png" />
   <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/7-removebg-preview.png" />
   <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/6-removebg-preview.png" />
-
 </p>
 
 <!--
