@@ -1,10 +1,10 @@
 <h1 align="center">
-<img align="left" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam.gif" alt="catjam">
-<img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/JNTHNN.svg" alt="JNTHNN" style="width:30%;height:auto;object-fit:cover;">
-<img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/catjam-reverse.gif" alt="catjam">
+<img align="left" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/catjam.gif" alt="catjam">
+<img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/JNTHNN.svg" alt="JNTHNN" style="width:30%;height:auto;object-fit:cover;">
+<img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/catjam-reverse.gif" alt="catjam">
 </h1>
 
-<img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/19.png" alt="catjam" style="width:30%;float: inline-end;">
+<img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/19.png" alt="catjam" style="width:30%;float: inline-end;">
 
 - 👨🏼‍🎓 I'm currently student at 19 Brussels
 - 🔭 I’m currently working on CPP Modules (CPP_05)
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/aws-certified-cloud-practitioner.png" />
+  <img src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/aws-certified-cloud-practitioner.png" />
 </p>
 
 <!--
