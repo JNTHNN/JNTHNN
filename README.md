@@ -42,10 +42,12 @@
   <a href="https://github.com/JNTHNN/Fdf">
     <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/project_fdf.png" />
   </a>
+  <a href="https://github.com/JNTHNN/Minitalk">
+    <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/project_minitalk.png" />
+  </a>
 </p>
 <!--
 <p align="center">
-  <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/8-removebg-preview.png" />
   <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/7-removebg-preview.png" />
   <img width=180px src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/6-removebg-preview.png" />
 </p>
