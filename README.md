@@ -7,15 +7,15 @@
 <img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/19.png" alt="catjam" style="width:30%;float: inline-end;">
 
 - 👨🏼‍🎓 I'm currently student at 19 Brussels
-- 🔭 I’m currently working on Inception
-- 🌱 I’m currently learning C++ / Docker
+- 🔭 I’m currently working on Webserv (with @Xyxy21 & @Oswaaaald)
+- 🌱 I’m currently learning C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnthnn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2></h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,apple,git,bash,vim,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,docker,git,bash,aws,apple,linux" />
 </p>
 
 <p align="center">
