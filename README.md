@@ -6,16 +6,16 @@
 
 <img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/19.png" alt="catjam" style="width:30%;float: inline-end;">
 
-- 👨🏼‍🎓 I'm currently student at 19 Brussels
-- 🔭 I’m currently working on ft_transcendence
-- 🌱 I’m currently learning C++
+- 👨🏼‍🎓 I'm currently student post-CC at 19 Brussels
+- 🔭 I’m currently working on rubik
+- 🌱 I’m currently learning python
+- 💼 I'm currently looking for internship / first job
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnthnn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2></h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,docker,git,bash,aws,apple,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,docker,html,css,js,ts,tailwind,py,git,bash,aws,apple,linux" />
 </p>
 
 <p align="center">
