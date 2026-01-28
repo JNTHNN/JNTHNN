@@ -8,7 +8,7 @@
 
 - 👨🏼‍🎓 I'm currently student post-CC at 19 Brussels
 - 🔭 I’m currently working on rubik
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javascript
 - 💼 I'm currently looking for internship / first job
 
 
