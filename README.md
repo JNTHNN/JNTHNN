@@ -7,7 +7,7 @@
 <img align="right" src="https://raw.githubusercontent.com/JNTHNN/JNTHNN/master/img/19.png" alt="catjam" style="width:30%;float: inline-end;">
 
 - 👨🏼‍🎓 I'm currently student post-CC at 19 Brussels
-- 🔭 I’m currently working on rubik
+- 🔭 I’m currently working on camagru
 - 🌱 I’m currently learning javascript
 - 💼 I'm currently looking for internship / first job
 
